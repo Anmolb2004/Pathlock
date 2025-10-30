@@ -1,9 +1,12 @@
 import axios from 'axios';
 import { useAuthStore } from '../store/authStore';
 
+// Get the base URL from the environment variable
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
+
 // Create a new Axios instance
 const api = axios.create({
-  baseURL: '/api', // Vite proxy will handle this
+  baseURL: API_BASE_URL, // Use the environment variable here
 });
 
 // --- Interceptor ---
