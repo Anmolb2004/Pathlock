@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* --- STYLE --- */
+@layer base {
+  body {
+    /* Set a dark background and light text for the whole app */
+    @apply bg-gray-900 text-gray-100;
+  }
+
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  /* --- STYLE (DARK) --- */
+  /* Make form inputs dark by default */
+  input[type='text'],
+  input[type='password'],
+  input[type='date'] {
+    @apply bg-gray-700 text-white border-gray-600 focus:ring-indigo-500 focus:border-indigo-500;
+  }
+}

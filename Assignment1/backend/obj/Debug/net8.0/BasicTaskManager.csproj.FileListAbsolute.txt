@@ -1,0 +1,64 @@
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/BasicTaskManager
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/BasicTaskManager.deps.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/BasicTaskManager.runtimeconfig.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/BasicTaskManager.dll
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/BasicTaskManager.pdb
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.csproj.AssemblyReference.cache
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.AssemblyInfoInputs.cache
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.AssemblyInfo.cs
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.csproj.CoreCompileInputs.cache
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.MvcApplicationPartsAssemblyInfo.cs
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.MvcApplicationPartsAssemblyInfo.cache
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/scopedcss/bundle/BasicTaskManager.styles.css
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTas.71C2A1FF.Up2Date
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.dll
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/refint/BasicTaskManager.dll
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.pdb
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/BasicTaskManager.genruntimeconfig.cache
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/ref/BasicTaskManager.dll
+/Users/tamannabansal/Desktop/pathlock asign1/backend/bin/Debug/net8.0/BasicTaskManager.staticwebassets.endpoints.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/tamannabansal/Desktop/pathlock asign1/backend/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/BasicTaskManager.staticwebassets.endpoints.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/BasicTaskManager
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/BasicTaskManager.deps.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/BasicTaskManager.runtimeconfig.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/BasicTaskManager.dll
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/BasicTaskManager.pdb
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.csproj.AssemblyReference.cache
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.AssemblyInfoInputs.cache
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.AssemblyInfo.cs
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.csproj.CoreCompileInputs.cache
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.MvcApplicationPartsAssemblyInfo.cs
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.MvcApplicationPartsAssemblyInfo.cache
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/scopedcss/bundle/BasicTaskManager.styles.css
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTas.71C2A1FF.Up2Date
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.dll
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/refint/BasicTaskManager.dll
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.pdb
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/BasicTaskManager.genruntimeconfig.cache
+/Users/tamannabansal/Desktop/Pathlock/Assignment1/backend/obj/Debug/net8.0/ref/BasicTaskManager.dll

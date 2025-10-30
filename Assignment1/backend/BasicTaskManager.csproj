@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- 
+      This <InvariantGlobalization> part can be important.
+      Some systems might default to true, which can cause issues.
+      Setting it to false (or removing the line) is often safer.
+      Let's remove it for simplicity, the template default is usually fine.
+    -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- 
+      This is the only package we need to add.
+      It's for the Swagger/OpenAPI documentation and test UI.
+    -->
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+</Project>
