@@ -1,7 +1,7 @@
 import type { TaskItem } from './types.ts';
 
 // We get this from the Vite proxy, so we just use a relative path
-const API_BASE_URL = '/api';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
 /**
  * Checks if a fetch response is okay, otherwise throws an error.
