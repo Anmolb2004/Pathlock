@@ -5,7 +5,7 @@ import type { Project } from '../types';
 import { useAuthStore } from '../store/authStore.ts';
 import { Plus, Trash2, Loader2, AlertCircle, Folder, MessageSquare } from 'lucide-react';
 import { AxiosError } from 'axios';
-
+//start
 const DashboardPage = () => {
   const [projects, setProjects] = useState<Project[]>([]);
   const [isLoading, setIsLoading] = useState(true);
