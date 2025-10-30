@@ -15,4 +15,4 @@ FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build /app/out .
 EXPOSE 8080
-ENTRYPOINT ["dotnet", "Basic-Task-Manager.dll"]
+ENTRYPOINT ["dotnet", "BasicTaskManager.dll"]
