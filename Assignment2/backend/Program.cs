@@ -20,19 +20,15 @@ builder.Services.AddScoped<ITaskService, TaskService>();
 builder.Services.AddScoped<ISchedulerService, SchedulerService>(); // --- NEW ---
 
 // --- CORS ---
+// --- CORS ---
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReactApp",
+    options.AddPolicy("AllowReactApp", // You can keep the name
         policy =>
         {
-            // Read origins from config
-            var allowedOrigins = builder.Configuration.GetSection("AllowedOrigins").Get<string[]>();
-            if (allowedOrigins != null)
-            {
-                policy.WithOrigins(allowedOrigins)
-                      .AllowAnyHeader()
-                      .AllowAnyMethod();
-            }
+            policy.AllowAnyOrigin() // <-- This allows any domain
+                  .AllowAnyHeader() // <-- This allows any header (like Content-Type)
+                  .AllowAnyMethod(); // <-- This allows any method (GET, POST, etc.)
         });
 });
 
