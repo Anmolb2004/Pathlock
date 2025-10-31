@@ -85,6 +85,25 @@ builder.Services.AddSwaggerGen(options =>
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        // Get your DbContext
+        var context = services.GetRequiredService<ProjectManagerDbContext>();
+        
+        // This command runs any pending migrations and creates the database
+        context.Database.Migrate(); 
+    }
+    catch (Exception ex)
+    {
+        // Log the error if migration fails
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "An error occurred while migrating the database.");
+    }
+}
+
 // --- 2. Configure HTTP Pipeline ---
 if (app.Environment.IsDevelopment())
 {
